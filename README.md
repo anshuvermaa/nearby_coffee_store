@@ -27,6 +27,14 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
+
+https://user-images.githubusercontent.com/96846551/210376637-b72ef483-e5b5-4d44-835b-73822a3b1bf2.mp4
+
+
+
+
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
