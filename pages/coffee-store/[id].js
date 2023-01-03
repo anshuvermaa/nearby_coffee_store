@@ -21,7 +21,7 @@ export async function getStaticProps(staticProps) {
   const coffeeStores = await fetchCoffeeStores();
   const findCoffeeStoreById = coffeeStores.find((coffeeStore) => {
     return coffeeStore.id.toString() === params.id; //dynamic id
-  });
+  });console.log(findCoffeeStoreById)
   return {
     props: {
       coffeeStore: findCoffeeStoreById ? findCoffeeStoreById : {},
